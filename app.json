@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.amitsharma45.demoapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "422b63f1-8fcd-4b81-8aa1-b86bf196ab4b"
+      }
+    },
+    "owner": "amitsharma45"
   }
 }
